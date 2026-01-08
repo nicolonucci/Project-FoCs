@@ -1,10 +1,10 @@
 # Project-FoCs
-Project of Foundation of Computer Science\\
-AY 2025/2026
-Project by
-Davide Francesco Caramia, matr. 882108
-Hervè Mottaran, matr. 941366
-Nicolò Nucci, matr. 945678
+Project of Foundation of Computer Science<br>
+AY 2025/2026<br>
+Project by<br>
+Davide Francesco Caramia, matr. 882108<br>
+Hervè Mottaran, matr. 941366<br>
+Nicolò Nucci, matr. 945678<br>
 
 Download the TrendingYT.zip and the Python code, change the repository in the path variable in the first code chunk and all the results are available.
 .
