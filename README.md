@@ -1,5 +1,5 @@
 # Project-FoCs
-Project of Foundation of Computer Science
+Project of Foundation of Computer Science\\
 AY 2025/2026
 Project by
 Davide Francesco Caramia, matr. 882108
